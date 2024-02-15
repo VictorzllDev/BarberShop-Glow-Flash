@@ -7,11 +7,11 @@ import { Button } from './Button'
 import { GridPosters } from './GridPosters'
 
 export {
-  SectionOne,
-  SectionTwo,
-  SectionThree,
-  SectionFour,
-  Footer,
-  Button,
-  GridPosters,
+	SectionOne,
+	SectionTwo,
+	SectionThree,
+	SectionFour,
+	Footer,
+	Button,
+	GridPosters,
 }
